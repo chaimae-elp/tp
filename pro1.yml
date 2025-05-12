@@ -1,5 +1,6 @@
  yaml
 version: '3'
+name: cc
 services:
   web:
     image: nginx
